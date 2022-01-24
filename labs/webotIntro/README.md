@@ -1,6 +1,9 @@
-# Lab 1. Hello!
+# Robot ADD Lab Activity
 
-Hello, world! Welcome to this very lab exercise for COMP122!
+This is the template text for the Computer ScienceLab Activity.
+Most of the content has been copied courtesy of Patrick Totske and is being investigated to provide guidance for the ADD Labs.
+Ignore all of the Content below
+
 This is the interactive web version of the lab, that gives you a terminal and a working java environment.
 Lab exercises are also available as PDF on Canvas should you wish to work on your own computer without the distractions.
 
